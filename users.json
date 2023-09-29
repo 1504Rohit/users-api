@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "biometric_id": "BIOM001",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Alice Johnson",
+        "biometric_id": "BIOM002",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "present",
+            "2023-09-03": "absent"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Michael Brown",
+        "biometric_id": "BIOM003",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "biometric_id": "BIOM004",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 5,
+        "name": "James Wilson",
+        "biometric_id": "BIOM005",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Sarah Lee",
+        "biometric_id": "BIOM006",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Robert Turner",
+        "biometric_id": "BIOM007",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Linda Martinez",
+        "biometric_id": "BIOM008",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 9,
+        "name": "William Adams",
+        "biometric_id": "BIOM009",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Mary White",
+        "biometric_id": "BIOM010",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Daniel Taylor",
+        "biometric_id": "BIOM011",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Sophia Anderson",
+        "biometric_id": "BIOM012",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "present",
+            "2023-09-03": "absent"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Matthew Clark",
+        "biometric_id": "BIOM013",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Olivia Lewis",
+        "biometric_id": "BIOM014",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Ethan Moore",
+        "biometric_id": "BIOM015",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Isabella Hall",
+        "biometric_id": "BIOM016",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 17,
+        "name": "James Turner",
+        "biometric_id": "BIOM017",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Ava Garcia",
+        "biometric_id": "BIOM018",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 19,
+        "name": "William Martin",
+        "biometric_id": "BIOM019",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Mia Scott",
+        "biometric_id": "BIOM020",
+        "attendance": {
+            "2023-09-01": "present",
+            "2023-09-02": "absent",
+            "2023-09-03": "present"
+        }
+    }
+]
